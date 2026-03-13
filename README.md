@@ -45,14 +45,6 @@ Dashboard + AI Summary
 
 ---
 
-## 📂 Project Structure
-ai-standup-reporter
-│
-├── standup_app.py
-├── standup_reporter.py
-├── agentic_ai.py
-
-└── README.md
 ## Project Demo
 
 ### Standup Report Form
@@ -60,3 +52,4 @@ ai-standup-reporter
 
 ### Dashboard Output
 ![Dashboard](Screenshot2.png)
+
