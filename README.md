@@ -51,4 +51,12 @@ ai-standup-reporter
 ├── standup_app.py
 ├── standup_reporter.py
 ├── agentic_ai.py
+
 └── README.md
+## Project Demo
+
+### Standup Report Form
+![Standup Form](Screenshot1.png)
+
+### Dashboard Output
+![Dashboard](Screenshot2.png)
